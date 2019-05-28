@@ -1,0 +1,4 @@
+export const EMPLYEE_LIST = "EMPLYEE_LIST";
+export const ADD_EMPLYEE = "ADD_EMPLYEE";
+export const EDIT_EMPLOYEE = "EDIT_EMPLOYEE";
+export const DELETE_EMPLOYEE = "DELETE_EMPLOYEE";
