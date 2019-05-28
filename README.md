@@ -1,10 +1,15 @@
 #  Rest API Server
 install nodemon to run Rest API Server - in development mode
-#step 1 run bellow command 
+
+
+#step 1 : run bellow command 
 npm install nodemon -g
+
+
 #step 2 : install node modules , run bellow command
 npm install 
-#step 3 start the server 
+
+#step 3 : start the server 
 nodemon  .\bin\www
 
 test application server
@@ -12,9 +17,11 @@ http://localhost:4000/users
 
 # Ract redux application Server
 
-#step 1 
+#step 1 :
 npm install
-#step 3
+
+
+#step 3 :
 npm start
 
 test the react redux application server -http://localhost:3000/
