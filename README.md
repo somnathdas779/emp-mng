@@ -1,4 +1,4 @@
-"# react-redux-assignment" 
+#  Rest API Server
 install nodemon to run Rest API Server - in development mode
 #step 1 run bellow command 
 npm install nodemon -g
@@ -10,7 +10,7 @@ nodemon  .\bin\www
 test application server
 http://localhost:4000/users 
 
-# run react redux application 
+# Ract redux application Server
 
 #step 1 
 npm install
