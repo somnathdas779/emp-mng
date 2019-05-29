@@ -126,7 +126,7 @@ class EmplyeeList extends React.Component {
                     {
                         props => (
                         <div>
-                            <h3>Emplyee Managament:</h3>
+                            <h3>Employee Management:</h3>
                             <SearchBar { ...props.searchProps } />
                             <ClearSearchButton { ...props.searchProps } />
                             <AddEmployee></AddEmployee>
